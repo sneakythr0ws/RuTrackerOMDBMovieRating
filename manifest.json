@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Rutracker OMDB rating",
+  "description": "OMDB rating for rutracker movies",
+  "version": "1",
+  "content_scripts": [
+    {
+      "matches": [
+        "http://rutracker.org/*",
+        "https://rutracker.org/*"
+      ],
+      "js": [
+        "script.js"
+      ]
+    }
+  ]
+}
