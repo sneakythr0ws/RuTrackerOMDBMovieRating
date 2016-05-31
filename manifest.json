@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Rutracker OMDB rating",
-  "description": "OMDB rating for rutracker movies",
+  "name": "Rutracker ratings",
+  "description": "Ratings for rutracker movies",
   "version": "1",
   "content_scripts": [
     {

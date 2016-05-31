@@ -1,2 +1,2 @@
-# RuTracker OMDB Movie Rating
-Chrome extension for RuTracker. Adds OMDB rating for movies
+# RuTracker Movie Ratings
+Chrome extension for RuTracker. Adds ratings for movies
